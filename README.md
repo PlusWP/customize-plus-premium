@@ -28,5 +28,5 @@ Get updates on PlusWP's development
 
 - Follow [@knitkode on Twitter](https://twitter.com/knitkode).
 - Chat on [gitterchat](https://gitter.im/knitkode/)
-- Chat in IRC. On the `irc.freenode.net` server, in the `##pluswp` channel.
+- Chat in IRC. On the `irc.freenode.net` server, in the `##knitkode` channel.
 - Implementation help may be found at Stack Overflow (tagged [`knitkode`](https://stackoverflow.com/questions/tagged/knitkode)).
