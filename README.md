@@ -9,7 +9,7 @@ Before opening an issue:
 When asking general "how to" questions:
 
 - Please do not open an issue here
-- Instead, ask for help on [StackOverflow, IRC, or GitterChat](https://github.com/knitkode/customize-plus-premium/blob/master/README.md#community)
+- Instead, ask for help on [StackOverflow, or GitterChat](https://github.com/knitkode/customize-plus-premium/blob/master/README.md#community)
 
 When reporting a bug, include:
 
