@@ -24,7 +24,7 @@ When suggesting a feature, include:
 
 ## Community
 
-Get updates on PlusWP's development
+Get updates on KnitKode's development
 
 - Follow [@knitkode on Twitter](https://twitter.com/knitkode).
 - Chat on [gitterchat](https://gitter.im/knitkode/)
